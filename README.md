@@ -1,4 +1,4 @@
-# -I-Eye_Care
+# I-Eye_Care
 
 
 You would also need to install a shape_predictor_68_face_landmarks.dat file. Put it in the same folder as the other files.
